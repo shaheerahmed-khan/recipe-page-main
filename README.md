@@ -1,6 +1,6 @@
 # Frontend Mentor - Recipe page solution
 
-This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills.
 
 ## Table of contents
 
@@ -22,8 +22,8 @@ This is a recipe page, a simple omlette recipe .
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/shaheerahmedkhan11/recipe-page-main)
-- Live Site URL: [Live Site](https://shaheerahmedkhan11.github.io/recipe-page-main/)
+- Solution URL: [Solution](https://github.com/shaheerahmed-khan/recipe-page-main)
+- Live Site URL: [Live Site](https://shaheerahmed-khan.github.io/recipe-page-main/)
 
 
 ## My process
